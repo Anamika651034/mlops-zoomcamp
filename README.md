@@ -1,2 +1,3 @@
 # mlops-zoomcamp
-created first repository for mlops-zoomcamp assignment
+Created first repository for mlops-zoomcamp assignment.
+
